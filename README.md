@@ -4,7 +4,7 @@
 
 ## About myself
 - 🌎 Brazilian web developer
-- 👩‍💻 Currently working at Iteris
+- 👩‍💻 Currently working at Cayena🌶️
 - 🌱 and currently focusing on ReactJS and Node.js
 
 ## Github Stats :octocat:
