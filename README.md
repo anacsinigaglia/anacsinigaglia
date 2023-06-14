@@ -4,7 +4,7 @@
 
 ## About myself
 - 🌎 Brazilian Software Developer
-- 👩‍💻 Currently working at Cayena🌶️
+- 👩‍💻 currently working at Cayena🌶️
 - 🌱 and currently focusing on ReactJS and Node.js
 
 ## Github Stats :octocat:
