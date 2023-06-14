@@ -3,7 +3,7 @@
 <img align="center" height="250rem" alt="coding" src="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149.gif">
 
 ## About myself
-- 🌎 Brazilian web developer
+- 🌎 Brazilian Software Developer
 - 👩‍💻 Currently working at Cayena🌶️
 - 🌱 and currently focusing on ReactJS and Node.js
 
