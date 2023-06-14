@@ -21,7 +21,3 @@
   <a href="https://www.instagram.com/anahalffox"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="mailto:Yhy#7417"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
 </div>
-  
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anacsinigaglia.anacsinigaglia" alt="visitor badge"/>
-</p>
