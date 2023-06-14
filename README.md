@@ -7,7 +7,7 @@
 - 👩‍💻 currently working at Cayena🌶️
 - 🌱 and currently focusing on ReactJS and Node.js
 
-## Github Stats :octocat:
+## Github stats :octocat:
   <div>
   <a href="https://github.com/anacsinigaglia">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacsinigaglia&layout=compact&langs_count=16&theme=dracula"/>
