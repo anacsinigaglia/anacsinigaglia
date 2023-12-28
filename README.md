@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ana
+### Hi there 👋, I'm Anokia
 > Nice to meet you, human (or robot) :)
 <img align="center" height="250rem" alt="coding" src="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149.gif">
 
