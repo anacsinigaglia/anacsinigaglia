@@ -15,7 +15,7 @@
   
 ## Contact me:
  <div>
-  <a href="https://www.linkedin.com/in/ana-caroline-sinigaglia/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/ana-sinigaglia/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="mailto:anacarolinesinigaglia@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.instagram.com/anahalffox"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="mailto:Yhy#7417"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
