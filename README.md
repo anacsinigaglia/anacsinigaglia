@@ -4,8 +4,7 @@
 
 ## About myself
 - 🌎 Brazilian Web Developer
-- 👩‍💻 currently working at Cayena🌶️
-- 🌱 and currently focusing on ReactJS and Node.js
+- 🌱 Currently focusing on TypeScript & ReactJS
 
 ## Github stats :octocat:
   <div>
